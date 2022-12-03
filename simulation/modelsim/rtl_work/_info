@@ -1,0 +1,36 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/MSEE/5361/Week4/Assignment4/simulation/modelsim
+vALU
+!s110 1670038245
+!i10b 1
+!s100 nAn9`42cO<ZB]5MMBS2_F2
+!s11b Dg1SIo80bB@j0V0VzS_@n1
+Ig?:N7873FTczV9R?6?cGc0
+VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1670038226
+8D:/MSEE/5361/Week4/Assignment4/AAC2M4H1.v
+FD:/MSEE/5361/Week4/Assignment4/AAC2M4H1.v
+!i122 0
+L0 1 29
+OV;L;2020.1;71
+r1
+!s85 0
+31
+!s108 1670038245.000000
+!s107 D:/MSEE/5361/Week4/Assignment4/AAC2M4H1.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/MSEE/5361/Week4/Assignment4|D:/MSEE/5361/Week4/Assignment4/AAC2M4H1.v|
+!i113 1
+o-vlog01compat -work work
+!s92 -vlog01compat -work work +incdir+D:/MSEE/5361/Week4/Assignment4
+tCvgOpt 0
+n@a@l@u
